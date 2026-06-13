@@ -3,6 +3,8 @@
 <!--
 **Syamchand123/Syamchand123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Syamchand123/Syamchand123/blob/output/github-snake.svg)
